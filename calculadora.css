@@ -18,7 +18,7 @@ body{
 
 .calculator{
     border: 1px solid #19c461;
-    padding: 20px;
+    padding: 0px;
     border-radius: 16px;
     background: #222;
     box-shadow: 0px 3px 15px #19c461;
@@ -82,8 +82,8 @@ button{
     width: 300px;
     text-decoration: none;
     color: #fff;
-    margin-top: 670px;
-    margin-left: -400px;
+    margin-top: 620px;
+    margin-left: -340px;
     white-space: nowrap;
     text-align: center;
 }
